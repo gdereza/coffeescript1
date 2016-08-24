@@ -1,0 +1,491 @@
+speed 80
+fd 270
+rt 90
+bk 320
+pen pink, 5
+fd 25
+pu()
+fd 25
+pen pink, 5
+fd 25
+pu()
+fd 25
+dot pink, 25
+fd 50
+dot maroon, 25
+fd 25
+pen maroon, 5
+fd 25
+pu()
+fd 25
+pen orange, 5
+fd 25
+pu()
+fd 25
+dot orange, 25
+fd 40
+dot orange, 25
+fd 40
+dot orange, 25
+fd 30
+pen purple, 5
+fd 25
+pu()
+fd 25
+dot purple, 25
+fd 25
+pen purple, 5
+fd 25
+pu()
+fd 25
+pen purple, 5
+fd 25
+lt 180
+pu()
+fd 530
+lt 90
+fd 50
+lt 90
+pen red, 5
+fd 25
+pu()
+fd 25
+dot red, 25
+fd 30
+dot red, 25
+fd 50
+dot green, 25
+fd 75
+dot yellow, 25
+fd 30
+pen yellow, 5
+fd 25
+pu()
+fd 25
+dot yellow, 25
+fd 25
+pu()
+fd 25
+dot violet, 25
+fd 50
+pen lightgreen, 5
+fd 25
+pu()
+fd 25
+pen lightgreen, 5
+fd 25
+pu()
+fd 25
+dot lightgreen, 25
+fd 50
+dot lightgreen, 25
+fd 50
+dot blue, 25
+fd 25
+pen blue, 5
+fd 25
+pu()
+lt 180
+fd 630
+lt 90
+fd 50
+lt 90
+pen lightblue, 5
+fd 25
+pu()
+fd 25
+dot lightblue, 25
+fd 25
+pen lightblue, 5
+fd 25
+pu()
+fd 25
+dot lightblue, 25
+fd 50
+dot black, 25
+fd 25
+pen black, 5
+fd 25
+pu()
+fd 25
+dot black, 25
+fd 30
+dot black, 25
+fd 50
+dot magenta, 25
+fd 25
+pen magenta, 5
+fd 25
+pu()
+fd 25
+dot aqua, 25
+fd 30
+dot aqua, 25
+fd 30
+dot aqua, 25
+fd 50
+dot grey, 25
+fd 30
+dot grey, 25
+fd 30
+dot grey, 25
+rt 180
+fd 360
+lt 90
+fd 50
+lt 90
+pen gold, 5
+fd 25
+pu()
+fd 25
+pen gold, 5
+fd 25
+pu()
+fd 25
+pen gold, 5
+fd 25
+pu()
+fd 25
+dot indigo, 25
+fd 30
+dot indigo, 25
+pu()
+fd 25
+pen indigo, 5
+fd 25
+pu()
+fd 25
+dot indigo, 25
+lt 180
+fd 400
+lt 90
+fd 50
+dot teal, 40
+fd 50
+dot teal, 40
+fd 50
+pen teal, 10
+fd 50
+pu()
+fd 25
+pen teal, 10
+fd 50
+pu()
+fd 25
+pen teal, 10
+fd 50
+lt 180
+pu()
+fd 300
+rt 90
+fd 100
+rt 90
+pen orchid, 10
+fd 25
+pu()
+fd 25
+pen orchid, 10
+fd 25
+pu()
+fd 25
+pen orchid, 10
+fd 25
+pu()
+fd 25
+pen orchid, 10
+fd 25
+pu()
+fd 25
+pen orchid, 10
+fd 25
+pu()
+fd 25
+lt 180
+fd 260
+rt 90
+fd 100
+rt 90
+dot olive, 40
+fd 30
+pen olive, 10
+fd 25
+pu()
+fd 25
+pen olive, 10
+fd 25
+pu()
+fd 25
+pen olive, 10
+fd 25
+pu()
+fd 25
+pen olive, 10
+fd 25
+pu()
+fd 25
+rt 180
+fd 230
+rt 90
+fd 100
+rt 90
+pen orange, 10
+fd 25
+pu()
+fd 25
+pen orange, 10
+fd 25
+pu()
+fd 25
+pen orange, 10
+fd 25
+pu()
+fd 30
+dot orange, 40
+fd 50
+dot orange, 40
+
+speed 80
+fd 270
+rt 90
+bk 320
+pen pink, 5
+fd 25
+pu()
+fd 25
+pen pink, 5
+fd 25
+pu()
+fd 25
+dot pink, 25
+fd 50
+dot maroon, 25
+fd 25
+pen maroon, 5
+fd 25
+pu()
+fd 25
+pen orange, 5
+fd 25
+pu()
+fd 25
+dot orange, 25
+fd 40
+dot orange, 25
+fd 40
+dot orange, 25
+fd 30
+pen purple, 5
+fd 25
+pu()
+fd 25
+dot purple, 25
+fd 25
+pen purple, 5
+fd 25
+pu()
+fd 25
+pen purple, 5
+fd 25
+lt 180
+pu()
+fd 530
+lt 90
+fd 50
+lt 90
+pen red, 5
+fd 25
+pu()
+fd 25
+dot red, 25
+fd 30
+dot red, 25
+fd 50
+dot green, 25
+fd 75
+dot yellow, 25
+fd 30
+pen yellow, 5
+fd 25
+pu()
+fd 25
+dot yellow, 25
+fd 25
+pu()
+fd 25
+dot violet, 25
+fd 50
+pen lightgreen, 5
+fd 25
+pu()
+fd 25
+pen lightgreen, 5
+fd 25
+pu()
+fd 25
+dot lightgreen, 25
+fd 50
+dot lightgreen, 25
+fd 50
+dot blue, 25
+fd 25
+pen blue, 5
+fd 25
+pu()
+lt 180
+fd 630
+lt 90
+fd 50
+lt 90
+pen lightblue, 5
+fd 25
+pu()
+fd 25
+dot lightblue, 25
+fd 25
+pen lightblue, 5
+fd 25
+pu()
+fd 25
+dot lightblue, 25
+fd 50
+dot black, 25
+fd 25
+pen black, 5
+fd 25
+pu()
+fd 25
+dot black, 25
+fd 30
+dot black, 25
+fd 50
+dot magenta, 25
+fd 25
+pen magenta, 5
+fd 25
+pu()
+fd 25
+dot aqua, 25
+fd 30
+dot aqua, 25
+fd 30
+dot aqua, 25
+fd 50
+dot grey, 25
+fd 30
+dot grey, 25
+fd 30
+dot grey, 25
+rt 180
+fd 360
+lt 90
+fd 50
+lt 90
+pen gold, 5
+fd 25
+pu()
+fd 25
+pen gold, 5
+fd 25
+pu()
+fd 25
+pen gold, 5
+fd 25
+pu()
+fd 25
+dot indigo, 25
+fd 30
+dot indigo, 25
+pu()
+fd 25
+pen indigo, 5
+fd 25
+pu()
+fd 25
+dot indigo, 25
+lt 180
+fd 400
+lt 90
+fd 50
+dot teal, 40
+fd 50
+dot teal, 40
+fd 50
+pen teal, 10
+fd 50
+pu()
+fd 25
+pen teal, 10
+fd 50
+pu()
+fd 25
+pen teal, 10
+fd 50
+lt 180
+pu()
+fd 300
+rt 90
+fd 100
+rt 90
+pen orchid, 10
+fd 25
+pu()
+fd 25
+pen orchid, 10
+fd 25
+pu()
+fd 25
+pen orchid, 10
+fd 25
+pu()
+fd 25
+pen orchid, 10
+fd 25
+pu()
+fd 25
+pen orchid, 10
+fd 25
+pu()
+fd 25
+lt 180
+fd 260
+rt 90
+fd 100
+rt 90
+dot olive, 40
+fd 30
+pen olive, 10
+fd 25
+pu()
+fd 25
+pen olive, 10
+fd 25
+pu()
+fd 25
+pen olive, 10
+fd 25
+pu()
+fd 25
+pen olive, 10
+fd 25
+pu()
+fd 25
+rt 180
+fd 230
+rt 90
+fd 100
+rt 90
+pen orange, 10
+fd 25
+pu()
+fd 25
+pen orange, 10
+fd 25
+pu()
+fd 25
+pen orange, 10
+fd 25
+pu()
+fd 30
+dot orange, 40
+fd 50
+dot orange, 40
