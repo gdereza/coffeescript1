@@ -1,0 +1,44 @@
+speed 30
+dot darkgreen, 200
+fd 100
+pen crimson, 10
+fd 25
+lt 25
+fd 25
+rt 90
+fd 50
+jumpto 30, -15
+pu()
+lt 65
+fd 50
+dot gold, 25
+lt 90
+fd 50
+dot gold, 25
+pu()
+lt 90
+fd 50
+rt 90
+fd 50
+rt 90
+rt 180
+pen lightgreen, 10
+rt 270
+fd 15
+rt 35
+fd 15
+lt 55
+fd 15
+rt 35
+fd 15
+lt 55
+fd 15
+rt 35
+fd 15
+lt 55
+rt 90
+fd 15
+lt 55
+fd 15
+fd 10
+rt 10
