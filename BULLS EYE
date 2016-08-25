@@ -1,0 +1,6 @@
+x = 18
+see x*5
+dot black, x*5
+dot white, x*4
+dot black, x*3
+dot white, x*2
