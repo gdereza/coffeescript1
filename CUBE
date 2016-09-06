@@ -1,0 +1,79 @@
+speed 20
+pen black, 5
+fd 50
+rt 90
+fd 50
+rt 90
+fd 50
+rt 90
+fd 50
+rt 90
+pu()
+moveto 25, 26
+pen black, 5
+fd 50 
+rt 90
+fd 50
+rt 90
+fd 50
+rt 90
+fd 50
+pu()
+rt 90
+fd 50
+lt 135
+pen black, 5
+fd 35
+(pu)
+moveto 2, 0
+rt 180
+pen black, 5
+fd 35
+pu()
+moveto 50, 1
+pen black, 5
+fd 30
+pu()
+moveto 51, 49 
+pen black, 5
+fd 30
+pu()
+moveto -3, -3
+lt 45
+pen black, 5
+fd 150
+rt 90
+fd 150
+rt 90
+fd 150
+rt 90
+fd 150
+pu()
+moveto 77,79
+pen black, 5
+rt 90
+fd 150
+rt 90
+fd 150
+rt 90
+fd 150
+rt 90
+fd 150
+pu()
+moveto -3, 146
+rt 135
+pen black, 5
+fd 120
+pu()
+moveto 148, 148
+pen black, 5
+fd 115
+pu()
+moveto 149, -5
+lt 2
+pen black, 5
+fd 120
+pu()
+moveto 28, 24
+pen black, 5
+fd 75
