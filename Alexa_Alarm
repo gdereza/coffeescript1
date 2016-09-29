@@ -1,0 +1,20 @@
+Day = 'Monday'
+play 
+clapsound =
+  wave: 'noise'
+  attack: .01
+  decay: .1
+  gain: .5
+  cutfollow: 4
+  resonance: 10
+
+play
+  timbre: clapsound
+  tempo: 120
+  song: "cc/c/ccc/c/c/c//c/c//c2"
+
+say 'Good Morning! It is time to wake up'
+if Day is 'Monday'
+  say 'You have to go to school today'
+else 
+  say 'Good bye!' 
