@@ -1,0 +1,16 @@
+#Chatbot
+# CS1004 example chatbot using loop and variable prompts
+
+write 'Gabby: Hi my name is Gabby.'
+await read 'Gabby: What\'s your name?', defer name
+write 'Gabby: Hello ' + name
+done = false
+while not done
+  prompt = (name + ' can you guess who I am?') + ':'
+  await read prompt, defer q
+  if (q.match /quit|exit|give up/)
+    write 'Gabby: Ok, nice talking to you!'
+    done = true 
+  else if (q.match /robot|human|chatbox/)
+    write 'Gabby: Close... But I am a human, of course.'
+  else (write 'Gabby: Good guesswork!')
