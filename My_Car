@@ -1,0 +1,45 @@
+speed 10
+pen red
+rt 360,20
+lt 90
+fd 60
+lt 90
+rt 540,20
+fd 10
+rt 90,20
+lt 90
+rt 180, 60
+lt 90
+fd 25
+rt 90
+fd 20
+rt 90
+fd 28
+pu()
+moveto -57, 52
+rt 90
+pen black, 5
+rt 180, 10
+fd 40
+rt 90
+fd 20
+rt 90
+fd 40
+pu()
+moveto -42, 35
+dot green, 5
+moveto -21, 52
+pen black, 5
+rt 180, 20
+rt 90
+fd 40
+pu()
+moveto 12, 36
+pen black, 5
+fd 10
+lt 90
+fd 10
+lt 90
+fd 10
+lt 90
+fd 10
