@@ -1,0 +1,31 @@
+speed 1000
+pen black, -2
+slide 100, 0
+slide 0, 50
+slide -100, 0
+slide 0, -50
+pen green
+fd 50
+rt 90
+fd 100
+rt 90
+fd 50
+rt 90
+fill green
+rt 90
+fd 25
+lt 90
+fd 10
+rt 30
+pen yellow
+fd 45
+lt 60
+fd 45
+lt 120
+fd 45
+lt 60
+fd 45
+fill yellow
+rt 30
+bk 40
+dot blue, 30
