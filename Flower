@@ -1,0 +1,11 @@
+pen green
+rt 30, 200
+pen yellow, 10
+rt 360, 20
+lt 90
+pu()
+moveto 12, 84
+for [1..6]
+  pen purple, 10
+  rt 148, 20
+  lt 90
