@@ -1,0 +1,46 @@
+speed 10
+pen black, 2
+slide 100, 0
+slide 0, 50
+slide -100, 0
+slide 0, -50
+fd 16
+rt 90
+pen yellow, 5
+fd 100
+rt 90 
+fd 16
+rt 90
+fd 100
+rt 90
+fd 16
+fill yellow
+pu()
+
+fd 16
+rt 90
+pen red, 5
+fd 100
+rt 90 
+fd 16
+rt 90
+fd 100
+rt 90
+fd 16
+fill red
+pu()
+
+fd 16
+rt 90
+pen black, 5
+fd 100
+rt 90 
+fd 16
+rt 90
+fd 100
+rt 90
+fd 16
+fill black
+pu()
+
+
