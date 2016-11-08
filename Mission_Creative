@@ -1,13 +1,23 @@
 s = new Sprite 
   color: gray
-  height: 128
+  height: 100
   width: 128
 s.pen blue
 s.rt 135
-s.fd 200
+s.fd -300
 for [1..20]
   s.rt 180
 
+s = new Sprite 
+  color: pink
+  height: 100
+  width: 128
+s.pen blue
+s.rt 180
+s.fd -300
+for [1..20]
+  s.rt 180
+  
 play """
   F ^G C' F'
   [=G'E] C' ^G
@@ -31,6 +41,3 @@ sync a, b, c
 a.dot red, 100
 b.dot green, 100
 c.dot blue, 100
-
-wear 'witch'
-lt 360
