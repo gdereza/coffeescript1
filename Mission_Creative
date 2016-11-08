@@ -41,3 +41,6 @@ sync a, b, c
 a.dot red, 100
 b.dot green, 100
 c.dot blue, 100
+
+wear 'witch'
+lt 360
