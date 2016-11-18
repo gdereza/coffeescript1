@@ -1,0 +1,27 @@
+<html>
+  <body>
+    <h1>Main Idea<font face="Arial Italic" size="5" color="black">-An Important Feature of a Text</font></h1>
+         <p>Example: <p>
+              <p><center>What Plants Need to Survive</center> <p>
+               <p><font face="verdana" size="5" color="blue">Plants need energy from the sun to live and grow.</font> <font face="verdana" size="5" color="green">They would otherwise not survive without sun. They use the sunlight to produce enrgy. They use that energy to grow and produce fruit and flowers. </font><p>
+               
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+div {
+    background-color:;
+    width: 300px;
+    border: 10px solid blue;
+    padding: 25px;
+    margin: 25px;
+}
+</style>
+</head>
+<body>
+
+<div>What is the main idea of the text? Hint: think about the topic sentence.</div>
+
+
+</body>
+</html>
