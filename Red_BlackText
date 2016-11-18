@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+div {
+    background-color:;
+    width: 300px;
+    border: 10px solid red;
+    padding: 25px;
+    margin: 25px;
+}
+</style>
+</head>
+<body>
+
+<div><center>SVG 1</center><center><font size="3" color="red">SVG 2</font></center>
+</div>
