@@ -1,0 +1,19 @@
+<html>
+  <body>
+    <h1>HTML</h1>
+    <p><font color="Brown">Inline Elements</font>
+    </p>
+
+    <p><p style="margin-left: 40px"><b>Line Breaks</b> <br />  
+    </p>
+  
+    <p><p style="margin-left: 40px"><b>Semantic inline text elements</b>
+    
+    <p><p style="margin-left: 100px">Describes the meaning of the text
+    <p><p style="margin-left: 100px">Examples:< em> for emphasis, < strong> strongly emphasized, < q> short inline quote 
+    <p><p style="margin-left: 40px"><b>Presentational inline text elements</b>
+    </p>
+    <p><p style="margin-left: 100px">provides descriptions of the elements style 
+    </p>
+    <p><p style="margin-left: 100px">Examples:< b> keywords or visually emphasized text (bold) Ex: product name, < i> Alternative voice (italics) Ex: phrase, technical term, thought (please use: < strong> and < em> Instead)
+    </p>
