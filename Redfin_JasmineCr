@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title></title>
+    <style>
+    table {
+      border:none;}
+    th, td {
+      border: none:
+      background-color: #FF0000;
+      padding: 1px;
+      width: 190px
+      
+    </style>
+  </head>
+  <body>
+  <p><img src="https://ssl.cdn-redfin.com/photo/8/mbpaddedwide/352/genMid.ML81635352_C.jpg" width="250" height="300" align="left" />
+  <p style= "color:#FFA500">Hot Home:<p style>There is a 75% chance this home will sell in the next 9 days - go tour it soon</p>
+      <table border="2" bgcolor="#efefef">
+      <tr>
+        <th>$/Sq. Ft.</th>
+        <td>$594</td>
+        <th>Year Built</th>
+        <td>2000</td>
+      </tr>
+      <tr>
+        <th>On Redfin</th>
+        <td>5 days</td>
+        <th>Lot Size</th>
+        <td>1,400 Sq. Ft.</td>
+      </tr>
+      <tr>
+        <th>HOA</th>
+        <td>$250/month</td>
+        <th>Status</th>
+        <td>Active</td>
+      </tr>
+      <tr>
